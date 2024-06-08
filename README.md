@@ -29,7 +29,7 @@ This app is using a fake data which is stored in the file named as **data.json**
 - Pagination
 ![App Screenshot](https://github.com/mayankshrm/Backend-CarCompare/assets/105127021/11d5a70b-a58f-4f03-88a0-82a105347426)
 
-**The design may be different in other window size, make sure to view the perfect version change the window size to 80%**
+
 
 
 
